@@ -1,2 +1,5 @@
 # Date-JSON-conversation
-Converting date to JSON
+
+
+var date1 = new Date();
+date1.toJSON();
